@@ -123,4 +123,4 @@ Web Audio API pour la puissante API audio
 Email: accueil@pacifique-informatique.com
 Issues GitHub : Signaler un problème
 
-Email : votre.email@example.com
+
