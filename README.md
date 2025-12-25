@@ -25,7 +25,7 @@ Une application web complète pour convertir la fréquence musicale de 440Hz à 
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votreusername/music-432-converter-web.git
+git clone https://github.com/sasvavoutoinformatique-hue/RATUNED.git
 
 # 2. Accéder au dossier
 cd music-432-converter-web
