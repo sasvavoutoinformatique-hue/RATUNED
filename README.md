@@ -2,9 +2,9 @@
 convertisseur de musique en 432Hz
 # 🎵 Convertisseur 440Hz → 432Hz Web
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/votreusername/music-432-converter-web)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/sasvavoutoinformatique-hue/RATUNED)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-compatible-orange.svg)](https://webaudio.github.io/web-audio-api/)
+[![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-compatible-orange.svg)(https://github.com/sasvavoutoinformatique-hue/RATUNED-api/)
 
 Une application web complète pour convertir la fréquence musicale de 440Hz à 432Hz directement dans votre navigateur.
 
